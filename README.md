@@ -5,7 +5,7 @@ Hi there! In this Repository you will be seeing my Top-Tier Projects that I have
  <This is a variety of progrms to web apps to mobile apps to software tools>
     Copyright (C) 2023  Zyguel Philip E. Cabogoy
       
-    These programs are free software: you can redistribute it and/or modify
+    These programs are free softwares: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
     (at your option) any later version.
